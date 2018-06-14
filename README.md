@@ -1,2 +1,2 @@
 # usefulr
-A collection of useful R link
+A collection of useful web links for R
