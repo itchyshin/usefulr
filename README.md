@@ -45,3 +45,9 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 <https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2>
 
 plot + theme(legend.position="none")
+
+### Bubble ggplots
+
+<http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-6-weighted-scatterplots.html>
+
+
