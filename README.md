@@ -35,4 +35,13 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 ### PCA 
 
 
-### 
+### Residuals
+
+<https://drsimonj.svbtle.com/visualising-residuals>
+
+
+### No legends for ggplots
+
+<https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2>
+
+plot + theme(legend.position="none")
