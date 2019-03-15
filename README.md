@@ -50,4 +50,10 @@ plot + theme(legend.position="none")
 
 <http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-6-weighted-scatterplots.html>
 
+### Dot and whister plots with ggplots + more
+
+Great to way to visualise regression results
+
+<https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html>
+
 
