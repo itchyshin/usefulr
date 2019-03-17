@@ -6,6 +6,7 @@ A collection of useful web links for R by Shinichi (TODO!)
 1. [General](#general)
     1. [Books](#books)
     2. [University Courses](#university_courses)
+    
 2. [Specfics](#specfics)
     1. [Graphics](#graphics)
     2. [Stats](#stats)
