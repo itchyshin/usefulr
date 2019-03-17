@@ -24,7 +24,12 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 
 ## Specific 
 
-### multiple ggplots
+### Graphics
+
+
+### Stats
+
+#### multiple ggplots
 
 <https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html>
 
@@ -32,25 +37,25 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 
 <http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/>
 
-### PCA 
+#### PCA 
 
 
-### Residuals
+#### Residuals
 
 <https://drsimonj.svbtle.com/visualising-residuals>
 
 
-### No legends for ggplots
+#### No legends for ggplots
 
 <https://stackoverflow.com/questions/35618260/remove-legend-ggplot-2-2>
 
 e.g. -- 'plot + theme(legend.position="none")'
 
-### Bubble ggplots
+#### Bubble ggplots
 
 <http://t-redactyl.io/blog/2016/02/creating-plots-in-r-using-ggplot2-part-6-weighted-scatterplots.html>
 
-### Dot and whister plots with ggplots + more
+#### Dot and whister plots with ggplots + more
 
 Great to way to visualise regression results
 
