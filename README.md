@@ -1,10 +1,22 @@
 # usefulr
 
-A collection of useful web links for R (TODO!)
+A collection of useful web links for R by Shinichi (TODO!)
 
-## General
+# Table of contents
+1. [General](#general)
+    1. [Books](#books)
+    2. [University Courses](#university_courses)
+2. [Specfics](#specfics)
+    1. [Graphics](#graphics)
+    2. [Stats](#stats)
+    3. [R Markdown](#r_markdown)
+    4. [Others](#others)
 
-### Books
+
+
+## General <a name="general"></a>
+
+### Books <a name="books"></a>
 
 #### R for Data Science and Solutions
 
@@ -12,7 +24,7 @@ A collection of useful web links for R (TODO!)
 
 <https://jrnold.github.io/r4ds-exercise-solutions/>
 
-### University Courses
+### University Courses <a name="university_courses"></a>
 
 #### UBC STATS 545A and 547M
 
@@ -22,12 +34,10 @@ A great course at the University of British Colmbia: <http://stat545.com/>.
 
 Another grat course at the University of Toronto <https://uoftcoders.github.io/rcourse/index.html>
 
-## Specific 
-
-### Graphics
+## Specifics <a name="specifics"></a>
 
 
-### Stats
+### Graphics <a name="graphics"></a>
 
 #### multiple ggplots
 
@@ -36,14 +46,6 @@ Another grat course at the University of Toronto <https://uoftcoders.github.io/r
 <http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/>
 
 <http://www.cookbook-r.com/Graphs/Multiple_graphs_on_one_page_(ggplot2)/>
-
-#### PCA 
-
-
-#### Residuals
-
-<https://drsimonj.svbtle.com/visualising-residuals>
-
 
 #### No legends for ggplots
 
@@ -60,5 +62,35 @@ e.g. -- 'plot + theme(legend.position="none")'
 Great to way to visualise regression results
 
 <https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html>
+
+
+
+
+
+
+### Stats <a name="stats"></a>
+
+#### PCA 
+
+
+#### Residuals
+
+<https://drsimonj.svbtle.com/visualising-residuals>
+
+
+### R Markdown <a name="r_markdown"></a>
+
+#### How to cite with Zotero etc
+
+<https://ikashnitsky.github.io/2019/zotero/>
+
+<https://www.janfreyberg.com/blog/2017-05-27-workflow-papers-rmarkdown/>
+
+<http://tc.rbind.io/post/2017/07/07/citing-in-rmarkdown-using-zotero/>
+
+### Others <a name="others"></a>
+
+
+
 
 
