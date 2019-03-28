@@ -33,7 +33,7 @@ A great course at the University of British Colmbia: <http://stat545.com/>.
 
 #### EEB313: Quantitative Methods in R for Biology
 
-Another grat course at the University of Toronto <https://uoftcoders.github.io/rcourse/index.html>
+Another grat course at the University of Toronto: <https://uoftcoders.github.io/rcourse/index.html>
 
 ## Specifics <a name="specifics"></a>
 
@@ -65,10 +65,6 @@ Great to way to visualise regression results
 <https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html>
 
 
-
-
-
-
 ### Stats <a name="stats"></a>
 
 #### PCA 
@@ -91,7 +87,11 @@ Great to way to visualise regression results
 
 ### Others <a name="others"></a>
 
+#### R Studio shortcuts 
 
+This is amazing - go back and read again
+
+<https://appsilon.com/r-studio-shortcuts-and-tips/>
 
 
 
