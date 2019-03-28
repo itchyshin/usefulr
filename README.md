@@ -87,6 +87,12 @@ Great to way to visualise regression results
 
 ### Others <a name="others"></a>
 
+#### R Studio Addins
+
+<https://cran.r-project.org/web/packages/addinslist/README.html>
+
+<https://www.rstudio.com/resources/webinars/understanding-add-ins/>
+
 #### R Studio shortcuts 
 
 This is amazing - go back and read again
