@@ -11,7 +11,8 @@ A collection of useful web links for R by Shinichi (TODO!)
     1. [Graphics](#graphics)
     2. [Stats](#stats)
     3. [R Markdown](#r_markdown)
-    4. [Others](#others)
+    4. [R Studio](#r_studio)
+    5. [Others](#others)
 
 
 
@@ -67,8 +68,11 @@ Great to way to visualise regression results
 
 ### Stats <a name="stats"></a>
 
-#### PCA 
+#### How to count missing data (or `NA`)
 
+A great pot to get both colunm-wise and row-wise `NA`counts
+
+<https://sebastiansauer.github.io/sum-isna/>
 
 #### Residuals
 
@@ -85,7 +89,7 @@ Great to way to visualise regression results
 
 <http://tc.rbind.io/post/2017/07/07/citing-in-rmarkdown-using-zotero/>
 
-### Others <a name="others"></a>
+### R Studio <a name="r_studio"></a>
 
 #### R Studio Addins
 
@@ -99,5 +103,5 @@ This is amazing - go back and read again
 
 <https://appsilon.com/r-studio-shortcuts-and-tips/>
 
-
+### Others <a name="others"></a>
 
