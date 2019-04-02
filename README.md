@@ -65,6 +65,9 @@ Great to way to visualise regression results
 
 <https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html>
 
+#### How to visualise residuals
+
+<https://drsimonj.svbtle.com/visualising-residuals>
 
 ### Stats <a name="stats"></a>
 
@@ -73,10 +76,6 @@ Great to way to visualise regression results
 A great pot to get both colunm-wise and row-wise `NA`counts
 
 <https://sebastiansauer.github.io/sum-isna/>
-
-#### Residuals
-
-<https://drsimonj.svbtle.com/visualising-residuals>
 
 
 ### R Markdown <a name="r_markdown"></a>
