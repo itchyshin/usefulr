@@ -104,3 +104,10 @@ This is amazing - go back and read again
 
 ### Others <a name="others"></a>
 
+#### Stats tricks: how to get error (variance)
+
+<https://en.wikipedia.org/wiki/Propagation_of_uncertainty>
+
+<https://en.wikipedia.org/wiki/Delta_method>
+
+<https://en.wikipedia.org/wiki/Taylor_expansions_for_the_moments_of_functions_of_random_variables>
