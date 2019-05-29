@@ -80,6 +80,16 @@ A great pot to get both colunm-wise and row-wise `NA`counts
 
 ### R Markdown <a name="r_markdown"></a>
 
+#### Pimping up RMD
+
+<https://holtzy.github.io/Pimp-my-rmd/>
+
+#### R Markdown Themes
+
+<http://www.datadreaming.org/post/r-markdown-theme-gallery/>
+
+The former "pimping up" includes RMD theme section too
+
 #### How to cite with Zotero etc
 
 <https://ikashnitsky.github.io/2019/zotero/>
@@ -87,10 +97,6 @@ A great pot to get both colunm-wise and row-wise `NA`counts
 <https://www.janfreyberg.com/blog/2017-05-27-workflow-papers-rmarkdown/>
 
 <http://tc.rbind.io/post/2017/07/07/citing-in-rmarkdown-using-zotero/>
-
-#### R Markdown Themes
-
-<http://www.datadreaming.org/post/r-markdown-theme-gallery/>
 
 ### R Studio <a name="r_studio"></a>
 
