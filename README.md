@@ -88,6 +88,10 @@ A great pot to get both colunm-wise and row-wise `NA`counts
 
 <http://tc.rbind.io/post/2017/07/07/citing-in-rmarkdown-using-zotero/>
 
+#### R Markdown Themes
+
+<http://www.datadreaming.org/post/r-markdown-theme-gallery/>
+
 ### R Studio <a name="r_studio"></a>
 
 #### R Studio Addins
@@ -101,6 +105,7 @@ A great pot to get both colunm-wise and row-wise `NA`counts
 This is amazing - go back and read again
 
 <https://appsilon.com/r-studio-shortcuts-and-tips/>
+
 
 ### Others <a name="others"></a>
 
