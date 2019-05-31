@@ -26,6 +26,10 @@ A collection of useful web links for R by Shinichi (TODO!)
 
 <https://jrnold.github.io/r4ds-exercise-solutions/>
 
+##### Cookbook for R
+
+http://www.cookbook-r.com/
+
 ### University Courses <a name="university_courses"></a>
 
 #### UBC STATS 545A and 547M
