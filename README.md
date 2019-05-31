@@ -69,6 +69,10 @@ Great to way to visualise regression results
 
 <https://drsimonj.svbtle.com/visualising-residuals>
 
+#### Getting ggplot2 legends right
+
+<http://www.sthda.com/english/wiki/ggplot2-legend-easy-steps-to-change-the-position-and-the-appearance-of-a-graph-legend-in-r-software>
+
 ### Stats <a name="stats"></a>
 
 #### How to count missing data (or `NA`)
